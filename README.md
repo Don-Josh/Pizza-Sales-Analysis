@@ -98,6 +98,9 @@ i. KPIs Requirement
 
 ![Pivot 2](https://github.com/user-attachments/assets/8f509751-a3fa-471c-9c02-cf506f235611)
 
+![2nd Pivot Chart](https://github.com/user-attachments/assets/45aaa7c7-b21b-4243-a972-1ccade25784e)
+
+
 ## Visualization
 
 Pivot charts
