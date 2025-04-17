@@ -43,6 +43,8 @@ Pivot tables
 
 Pivot Charts
 
+MS Power Point
+
 Importation of the Dataset from Sql into Excel
 
 ### Tools Used:
