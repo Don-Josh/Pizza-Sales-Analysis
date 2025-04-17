@@ -41,6 +41,10 @@ The following Excel features were incorporated:
 
 Pivot tables
 
+Data Cleaning
+
+Data Processing
+
 Pivot Charts
 
 MS Power Point
