@@ -4,7 +4,8 @@ This project showcases my end-to-end data skills—including data cleaning, tran
 This is an Excel and Sql project on Pizza Sale.
 
 
-![images (4)](https://github.com/user-attachments/assets/709ba70b-be8b-4be3-b9ca-5da0a96c1b57)
+![p](https://github.com/user-attachments/assets/d1f26bf7-653e-4be3-ac08-8f418cc47959)
+
 
 ## Problem Statement
 ### 1. KPIs Requirement
